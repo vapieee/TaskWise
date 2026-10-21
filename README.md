@@ -223,7 +223,7 @@ TaskWise continues to undergo improvements in interface design, application perf
 ---
 
 ## 📄 License
-No license has been specified for this repository.
+**No license has been specified for this repository.**
 ---
 **Made with 💗 by the TaskWise Development Team**
 *Making task management easier, one task at a time.*
